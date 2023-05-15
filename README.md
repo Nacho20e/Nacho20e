@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Ignacio González</h1>
 <h3 align="center">I'm looking for my first Data Analyst job</h3>
 
